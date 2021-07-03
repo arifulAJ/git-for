@@ -1,0 +1,15 @@
+body{text-align: center;
+text-transform: capitalize;
+}
+.ninja{
+    border: 10px solid rgb(218, 154, 154);
+    border-radius: 25px;
+    padding: 10px;
+   margin-bottom: 20px;
+}
+p{background-color: aquamarine;
+font-size: xx-large;}
+img{
+    height: 200px;
+    width: 150px;
+}
